@@ -47,7 +47,7 @@ GT.WS[1].pidY = { p = 5, i = 0, d = 4, inn = 0.2}; --inn may cause errors
 GT.WS[1].pidZ = { p = 5, i = 0, d = 4, inn = 0.2}; --inn may cause errors
 GT.WS[1].LN = {};
 GT.WS[1].LN[1] = {};
-GT.WS[1].LN[1].depends_on_unit = { { { "self", 2 } }, { { "RLS_19J6" } }, { { "p-19 s-125 sr" } }, { {"55G6 EWR"} }, { {"EWR_P_37"} }, { {"EWR P-14 Tall King"} } };
+GT.WS[1].LN[1].depends_on_unit = { { { "self", 2 } }, { { "RLS_19J6" } }, { { "p-19 s-125 sr" } }, { {"55G6 EWR"} }, { {"EWR P-37 BAR LOCK"} }, { {"EWR P-14 Tall King"} } };
 GT.WS[1].LN[1].reactionTime = 17;
 GT.WS[1].LN[1].max_number_of_missiles_channels = 1;
 GT.WS[1].LN[1].type = 102;
