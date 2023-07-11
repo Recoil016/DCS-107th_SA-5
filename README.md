@@ -2,6 +2,8 @@
 
 A mod to fix the imperfect selection of search radars for the DCS SA-5. Use the SA-5 launcher and track radar with "107th" prefix.
 
+![Main Image](img/img1.png)
+
 Usable search radars with this mod are:
 
 * ST-68U Tin Shield (vanilla DCS)
